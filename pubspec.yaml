@@ -1,0 +1,22 @@
+name: pintextfield
+description: You can use this widget for phone number verification. After the data entry is provided, it returns it to you with the code name. You can do whatever you want with the code you have received. In the future, it is planned that the phone will listen to the sms and receive the codes automatically.
+version: 0.1.0
+homepage: https://github.com/yakupbaser/pintextfield.git
+repository: https://github.com/yakupbaser/pintextfield.git
+documentation: https://github.com/yakupbaser/pintextfield.git
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: ^1.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
