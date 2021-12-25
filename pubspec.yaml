@@ -1,6 +1,6 @@
 name: pintextfield
 description: You can use this widget for phone number verification. After the data entry is provided, it returns it to you with the code name. You can do whatever you want with the code you have received. In the future, it is planned that the phone will listen to the sms and receive the codes automatically.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/yakupbaser/pintextfield.git
 repository: https://github.com/yakupbaser/pintextfield.git
 documentation: https://github.com/yakupbaser/pintextfield.git
