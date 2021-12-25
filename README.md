@@ -17,6 +17,8 @@ and the Flutter guide for
 
 You can use this widget for phone number verification. After the data entry is provided, it returns it to you with the code name. You can do whatever you want with the code you have received.
 
+![pintextfield](https://user-images.githubusercontent.com/13915117/147392982-cb0baeba-2b23-4fcb-9c6f-7588eefbe97e.gif)
+
 ## Usage
 
 ```dart
